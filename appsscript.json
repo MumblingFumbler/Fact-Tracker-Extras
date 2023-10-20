@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "GrandJuryLibrary",
+        "version": "0",
+        "libraryId": "1SZJ8khIgztc8SWDOF8npf_l3nuwiG5VaMrFzUzc4nNueVgRZ2yEleLJr",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
